@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jedidiahhwang.
 - 👀 I’m interested in full stack development, with a slight emphasis on front end development (I still love back end!).
-- 🌱 I’m currently learning MERN stack and .NET.
+- 🌱 I’m currently learning MERN stack, Java and .NET.
 - 💞️ I’m looking to collaborate on any design heavy project!
 - 📫 How to reach me: email, GitHub, or LinkedIn.
 
